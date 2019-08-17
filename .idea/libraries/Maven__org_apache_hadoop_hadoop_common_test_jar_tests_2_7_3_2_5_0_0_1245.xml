@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.hadoop:hadoop-common:test-jar:tests:2.7.3.2.5.0.0-1245">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.3.2.5.0.0-1245/hadoop-common-2.7.3.2.5.0.0-1245-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.3.2.5.0.0-1245/hadoop-common-2.7.3.2.5.0.0-1245-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.7.3.2.5.0.0-1245/hadoop-common-2.7.3.2.5.0.0-1245-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
